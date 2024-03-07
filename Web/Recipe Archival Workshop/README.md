@@ -1,4 +1,4 @@
-## Recipe Archival Workshop
+# Recipe Archival Workshop
 
 Tried multiple image extensions and found **.tiff** to be the one giving the flag.
 

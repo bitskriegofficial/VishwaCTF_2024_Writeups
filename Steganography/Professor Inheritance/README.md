@@ -1,4 +1,4 @@
-## Professor's Inheritance
+# Professor's Inheritance
 
 The next number in the series was 29177
 

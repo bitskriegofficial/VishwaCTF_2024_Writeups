@@ -1,4 +1,4 @@
-## Sagar Sangram
+# Sagar Sangram
 
 The discord server [Sagar Sangram](https://discord.gg/XWuMMwFA) had a bot called **Vedic Trivia Bot** which greeted us with questions. We used ChatGPT/Web Search to answer them all.
 

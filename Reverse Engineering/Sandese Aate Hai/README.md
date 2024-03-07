@@ -1,4 +1,4 @@
-## Sandese Aate Hai
+# Sandese Aate Hai
 
 On running the [Program](Program) file we get the output 
 

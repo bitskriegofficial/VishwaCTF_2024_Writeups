@@ -1,4 +1,4 @@
-## Boot Failed
+# Boot Failed
 
 On going to /robots.txt we find /javascript/robots.js which gives us **/e8e53a51ba308caf79e4628357787f65**
 

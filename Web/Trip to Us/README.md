@@ -1,4 +1,4 @@
-## Trip to Us
+# Trip to Us
 
 On directory fuzzing we get the /db and /home.php endpoints
 

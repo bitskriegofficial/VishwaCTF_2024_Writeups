@@ -1,4 +1,4 @@
-## Into the Dark
+# Into the Dark
 
 In the hierloom.txt file we had a bunch of hex values which we figured out to be offset values and by visiting the specified offsets we get the string **torlogowikisaveaspng**. With the final hex value being **2011** so we get the [Tor 2011 logo](Tor-logo-2011-flat.svg.png) and save it as png.
 

@@ -1,4 +1,4 @@
-## Secret Code
+# Secret Code
 
 We find a [zip file](_confidential.jpg.extracted/5ecr3t_c0de.zip) and a [text file](_confidential.jpg.extracted/helper.txt) embedded in [confidential.jpg](confidential.jpg)
 

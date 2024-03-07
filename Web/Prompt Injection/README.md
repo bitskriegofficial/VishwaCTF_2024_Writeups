@@ -1,4 +1,4 @@
-## Prompt Injection
+# Prompt Injection
 
 We found the [writeup](https://github.com/project-sekai-ctf/sekaictf-2022/tree/main/web/bottle-poem) of the original challenge from SekaiCTF and just followed through to get the flag.
 

@@ -1,4 +1,4 @@
-## TRY HACK ME
+# TRY HACK ME
 
 We are required to find the name of your team member who is in the top 3% on Tryhackme. We search vishwactf site to find the names of team members. 
 

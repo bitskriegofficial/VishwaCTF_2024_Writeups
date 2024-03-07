@@ -1,4 +1,4 @@
-## MediCare Pharma
+# MediCare Pharma
 
 On sending the request to the page with the query
 `username=test'+OR+username+like+'%'+--+-&password=test`

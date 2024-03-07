@@ -1,4 +1,4 @@
-## ifconfig_inet
+# ifconfig_inet
 
 I watched the 1st episode of Mr. Robot and got the file name and IP.
 

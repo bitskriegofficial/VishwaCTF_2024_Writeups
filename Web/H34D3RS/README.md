@@ -1,4 +1,4 @@
-## H34D3RS
+# H34D3RS
 
 On sending the following get request to the server we get the flag
 

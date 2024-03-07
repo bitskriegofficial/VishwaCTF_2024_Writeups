@@ -1,4 +1,4 @@
-## Wired Secrets
+# Wired Secrets
 
 We used the command `tshark -r ./okay10.pcapng -Y 'usb.src=="1.2.1"' -T fields -e usbhid.data | sed 's/../:&/g2' > clicks` to get the mouse click information into a file.
 
