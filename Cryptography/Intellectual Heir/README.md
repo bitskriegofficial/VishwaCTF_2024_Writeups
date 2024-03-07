@@ -8,4 +8,4 @@ There is one more function called `str_to_ass()`, which concatenates 2-byte ASCI
 
 [Solve script](./solve.py)
 
-> FLAG: VishwaCTF{Pr0f1l3_1dent1fi3d_v0uch3r5_cr3d1t3d_5ucc355fully}
+> FLAG: VishwaCTF{Y0U_@R3_T#3_W0RT#Y_OF_3}

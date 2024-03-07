@@ -8,4 +8,4 @@ There were couple of more steps, which first involved xoring the ciphertext we o
 
 [Solve script](./solve.py)
 
-> FLAG: VishwaCTF{Pr0f1l3_1dent1fi3d_v0uch3r5_cr3d1t3d_5ucc355fully}
+> FLAG: VishwaCTF{P@ssw0rD_Re5eTed_$uccesfu11y}
