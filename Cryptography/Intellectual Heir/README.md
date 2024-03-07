@@ -1,9 +1,11 @@
 # Intellectual Heir
 
-We are required to find the name of your team member who is in the top 3% on Tryhackme. We search vishwactf site to find the names of team members. 
+The source code seems like a RSA implementation, so just obtain the prime numbers in binary format by taking the inverse sines & cosines from `file1.txt` & `file2.txt`.
 
-We check linkedin profiles of team members and come across a person named [Ankush Kaudi](https://www.linkedin.com/in/ankushkaudi/). 
+Then convert them to decimal format and use the RSA algorithm to decrypt the message.
 
-We check his [tryhackme](https://tryhackme.com/p/ankushkaudi) profile and get the flag.
+There is one more function called `str_to_ass()`, which concatenates 2-byte ASCII bytes into the plain text, reversing it gives us the flag
+
+[Solve script](./solve.py)
 
 > FLAG: VishwaCTF{Pr0f1l3_1dent1fi3d_v0uch3r5_cr3d1t3d_5ucc355fully}
