@@ -2,8 +2,8 @@
 
 We are given a [MySQL Replication log file](DBlog-bin.000007) which we are not able to open.
 
-We then convert the 0xff bytes to 0x20 and we are able to 
+We then convert the 0xff bytes to 0x20 and we are able to view the file using mysqlbinlog cli tool.
 
-maintainers matthew
+We find 
 
 just before 
