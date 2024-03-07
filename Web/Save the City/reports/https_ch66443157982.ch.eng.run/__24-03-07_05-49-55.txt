@@ -1,0 +1,27 @@
+# Dirsearch started Thu Mar  7 05:50:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://ch66443157982.ch.eng.run/
+
+403   289B   https://ch66443157982.ch.eng.run/.ht_wsr.txt
+403   289B   https://ch66443157982.ch.eng.run/.htaccess.bak1
+403   289B   https://ch66443157982.ch.eng.run/.htaccess.orig
+403   289B   https://ch66443157982.ch.eng.run/.htaccess.save
+403   289B   https://ch66443157982.ch.eng.run/.htaccessBAK
+403   289B   https://ch66443157982.ch.eng.run/.htaccess_sc
+403   289B   https://ch66443157982.ch.eng.run/.htaccess.sample
+403   289B   https://ch66443157982.ch.eng.run/.htaccessOLD2
+403   289B   https://ch66443157982.ch.eng.run/.htaccessOLD
+403   289B   https://ch66443157982.ch.eng.run/.htm
+403   289B   https://ch66443157982.ch.eng.run/.htaccess_orig
+403   289B   https://ch66443157982.ch.eng.run/.htaccess_extra
+403   289B   https://ch66443157982.ch.eng.run/.html
+403   289B   https://ch66443157982.ch.eng.run/.htpasswds
+403   289B   https://ch66443157982.ch.eng.run/.htpasswd_test
+403   289B   https://ch66443157982.ch.eng.run/.httr-oauth
+301   338B   https://ch66443157982.ch.eng.run/backups    -> REDIRECTS TO: http://ch66443157982.ch.eng.run/backups/
+200   467B   https://ch66443157982.ch.eng.run/backups/
+301   333B   https://ch66443157982.ch.eng.run/db    -> REDIRECTS TO: http://ch66443157982.ch.eng.run/db/
+200   483B   https://ch66443157982.ch.eng.run/db/
+200   447B   https://ch66443157982.ch.eng.run/Dockerfile
+302     0B   https://ch66443157982.ch.eng.run/home.php    -> REDIRECTS TO: auth-iit-user.php
+302     0B   https://ch66443157982.ch.eng.run/logout.php    -> REDIRECTS TO: auth-iit-user.php
+403   289B   https://ch66443157982.ch.eng.run/server-status/
+403   289B   https://ch66443157982.ch.eng.run/server-status
